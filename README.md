@@ -2,6 +2,7 @@
 Repositório para Curso Kubedev
 
 =-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*=-*
+
 PROCEDIMENTOS PARA CRIAÇÃO DA IMAGEM E EXECUÇÃO DO CONTAINER
 
 1º) Criar o documento "dockerfile" para documentar a criação da imagem da aplicação
